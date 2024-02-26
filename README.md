@@ -17,4 +17,4 @@ Source codes are provided in the [source](https://github.com/valeriederijk/3D-PT
 Distributed under the MIT License. See *LICENSE.txt* for more information.
 
 ## Contact
-Developed by Valerie de Rijk (valerie.derijk@wur.nl
+Developed by Valerie de Rijk (valerie.derijk@wur.nl)
